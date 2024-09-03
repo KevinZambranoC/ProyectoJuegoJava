@@ -16,7 +16,7 @@ public class Juego extends JPanel implements ActionListener, KeyListener {
     private int indiceFlecha = 0; 
     private int contadorTiempo = 0; 
     private int contadorGeneracion = 0; 
-    private final int intervaloGeneracionLobos = 10;
+    private final int intervaloGeneracionLobos = 6;
     private final int intervaloGeneracionLobosNaranja = 25;
     private int contadorGeneracionNaranja = 0;
     
